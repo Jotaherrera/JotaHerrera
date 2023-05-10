@@ -51,7 +51,7 @@ I'm confident that my skills and passion for software engineering make me a valu
 <img  src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
-<p>
-<img width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaherrera&layout=compact&theme=dark&hide_border=true" />
-<img width="500" height="165" src="https://github-readme-stats.vercel.app/api?username=Jotaherrera&show_icons=true&hide_border=true&theme=dark" />
+<p align="center">
+<img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaherrera&layout=compact&theme=dark&hide_border=true" />
+<img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=Jotaherrera&show_icons=true&hide_border=true&theme=dark" />
 </p>
