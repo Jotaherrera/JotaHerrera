@@ -24,7 +24,7 @@ I'm confident that my skills and passion for software engineering make me a valu
 
 ## Technologies I use 👨‍💻
 
-<p>
+<p align="center">
 <img  src="https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white"/>
 <img  src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img  src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
