@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/Jotaherrera/JotaHerrera/blob/main/assets/banner.png)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Jotaherrera?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jotaherrera?color=FDFFF1&style=for-the-badge&labelColor=141414&logo=star"/></a>
   <a href="https://github.com/Jotaherrera?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jotaherrera?color=FDFFF1&labelColor=141414&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
