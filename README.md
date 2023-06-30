@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Jotaherrera/JotaHerrera/blob/main/assets/banner.png)
+![Banner Image](https://github.com/Jotaherrera/JotaHerrera/blob/main/assets/banner_software_eng.png)
 
 <p align="center">
   <a href="https://github.com/Jotaherrera?tab=repositories&sort=stargazers">
